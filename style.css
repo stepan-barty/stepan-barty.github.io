@@ -24,6 +24,7 @@ header.startup {
 
 .btn {
   margin-top: 300px;
+  position: center;
   text-transform: uppercase;
   background-color: #F0781F;
   border-color: #F0781F;
