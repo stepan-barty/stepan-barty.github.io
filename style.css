@@ -23,8 +23,8 @@ header.startup {
 
 
 .btn {
+  border-radius: 300px;
   margin-top: 300px;
-  position: center;
   text-transform: uppercase;
   background-color: #F0781F;
   border-color: #F0781F;
